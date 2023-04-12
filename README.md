@@ -8,5 +8,5 @@ Raul, Thiago Souza, Guilherme Chaves, Leonel.
 | Data       | O que foi feito |
 |------------|-----------------|
 | 06/04/2023 | Criamos a estrutra do site |
-| 13/04/2023 | |
+| 12/04/2023 | | Criamos a pasta Diario
 | 20/04/2023 | |
