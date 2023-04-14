@@ -1,0 +1,10 @@
+# Leonel Marques
+
+
+## Minhas contribuições
+
+| Data       | Quais foram minhas contribuições |
+|------------|----------------------------------|
+| 06/04/2023 | Ajudei a estruturar o index.html |
+| 13/04/2023 | ... |
+| 20/04/2023 | ... |
