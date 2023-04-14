@@ -3,7 +3,7 @@
 
 ## Minhas contribuições
 
-| Data       | Minhas contribuições |
+| Data       | Minhas contribuições - P.I|
 |------------|----------------------------------|
 | 06/04/2023 | Ajudei a estruturar o index.html |
 | 13/04/2023 | Criei o diario.md |
