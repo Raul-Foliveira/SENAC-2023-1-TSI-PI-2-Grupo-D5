@@ -1,7 +1,7 @@
 #Aplicação web 
 
 ##Integrantes:
-Raul, Thiago Souza, Guilherme Chaves, Leonel.
+Raul Florentino, Thiago Souza, Guilherme Chaves, Leonel.
 
 ## Histórico
 
